@@ -1,0 +1,11 @@
+/*
+==================================
+Author : Prakhar Sharma
+Description : Q1.c-> Create a FIFO file (mkfifo Library Function or mknod system call).
+Date: 31st Aug, 2024.
+==================================
+*/
+
+FIFO_FILE="fifo_file2"
+
+mkfifo "$FIFO_FILE" 0666

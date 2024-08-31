@@ -1,0 +1,9 @@
+/*
+==================================
+Author : Prakhar Sharma
+Description : Q1.b-> Create a Hard link using system call
+Date: 31st Aug, 2024.
+==================================
+*/
+
+ln Q3.c new_Hrdlnk
